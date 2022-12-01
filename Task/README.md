@@ -12,4 +12,5 @@
 
 ## Блок-схема алгоритма:
 
+![alt-блоксхема](https://github.com/sheluto/Itogi/blob/80dc4667abb63fcad8e25b69a0976061254f4c70/Task/Algoritm.png "Алгоритм")
 
